@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "arrowParens": "always",
+  "tabWith": 2,
+  "printWith": 80
+}
